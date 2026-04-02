@@ -1,164 +1,390 @@
 <div align="center">
 
-<svg width="100%" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#e8eaf2"/>
-      <stop offset="50%" style="stop-color:#9fb4ff"/>
-      <stop offset="100%" style="stop-color:#5cffb1"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <!-- background -->
-  <rect width="900" height="160" rx="16" fill="#0a0b0f"/>
-  <ellipse cx="260" cy="60" rx="300" ry="90" fill="rgba(79,142,255,0.07)"/>
-  <ellipse cx="680" cy="110" rx="260" ry="70" fill="rgba(92,255,177,0.06)"/>
-  <!-- accent dots -->
-  <circle cx="44" cy="44" r="3" fill="#5cffb1" opacity="0.7"/>
-  <circle cx="856" cy="44" r="3" fill="#4f8eff" opacity="0.7"/>
-  <!-- eyebrow -->
-  <text x="450" y="36" text-anchor="middle"
-    font-family="'Courier New', monospace" font-size="11" letter-spacing="4"
-    fill="#5cffb1" opacity="0.85">// UNDERGRADUATE · INDIA · CLASS OF 2028</text>
-  <!-- name -->
-  <text x="450" y="97" text-anchor="middle"
-    font-family="Georgia, serif" font-size="46" font-weight="700"
-    letter-spacing="-1" fill="url(#nameGrad)" filter="url(#glow)">EROLLA RISHVIN REDDY</text>
-  <!-- role -->
-  <text x="450" y="128" text-anchor="middle"
-    font-family="'Courier New', monospace" font-size="11.5" letter-spacing="3"
-    fill="#6b7280">SOFTWARE ENGINEER</text>
-  <text x="450" y="128" text-anchor="middle"
-    font-family="'Courier New', monospace" font-size="11.5" letter-spacing="3"
-    fill="#6b7280" dx="0">SOFTWARE ENGINEER  ·  IoT &amp; SECURITY DEVELOPER  ·  AI ENTHUSIAST</text>
-  <!-- accent bar -->
-  <rect x="356" y="143" width="60" height="3" rx="2" fill="#4f8eff" opacity="0.9"/>
-  <rect x="424" y="143" width="16" height="3" rx="2" fill="#5cffb1" opacity="0.9"/>
-  <rect x="448" y="143" width="36" height="3" rx="2" fill="#ff6b6b" opacity="0.9"/>
-  <rect x="492" y="143" width="60" height="3" rx="2" fill="#4f8eff" opacity="0.9"/>
-</svg>
+<!-- SEO AUTHORITY LAYER -->
+<div align="center" style="margin-bottom: 20px;">
+  <h3>🏅 Patent Holder & Engineer</h3>
+  <p>
+    <b>Erolla Rishvin Reddy</b> is a Computer Science Engineering student and an IoT-focused developer specializing in cybersecurity and blockchain technologies.<br/>
+    Co-inventor of a <b>Government of India Registered Design Patent</b> for an <b>IoT Connectivity Device</b>.<br/>
+    <i>Design No: 470097-001</i>
+  </p>
+</div>
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+
+<!--            QUANTUM ENTRY — CAPSULE RENDER              -->
+
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,50:00F7FF,100:050510&height=200&section=header&text=RISHVIN%20REDDY&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20System%20Thinker&descSize=18&descAlignY=60&descColor=00F7FF" width="100%"/>
+
+<!-- ════════════ ANIMATED TAGLINES ════════════ -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=⬡+Architecting+Intelligent+Digital+Ecosystems;⬡+Full+Stack+%7C+IoT+%7C+AI+Engineering;⬡+From+an+idea+to+a+product+that+scales;⬡+Building+Systems+That+Think+%26+Act;⬡+CSE+Undergrad+%40+Woxsen+University+→+Class+of+2028" alt="Typing SVG"/>
 
 <br/>
 
-![Woxsen University](https://img.shields.io/badge/Woxsen_University-Class_of_2028-4f8eff?style=flat-square&labelColor=0a0b0f)
-![Status](https://img.shields.io/badge/Status-Open_for_Collaboration-5cffb1?style=flat-square&labelColor=0a0b0f)
-![Profile Views](https://komarev.com/ghpvc/?username=RishvinReddy&label=PROFILE+VIEWS&color=6b7280&style=flat-square)
+<!-- ════════════ BADGES ROW 1 — SOCIAL ════════════ -->
+
+[![Portfolio](https://img.shields.io/badge/⬡%20PORTFOLIO-rishvinreddy.github.io-00F7FF?style=for-the-badge&labelColor=050510)](https://rishvinreddy.github.io/)
+[![GitHub](https://img.shields.io/badge/⬡%20GITHUB-RishvinReddy-ffffff?style=for-the-badge&logo=github&labelColor=050510)](https://github.com/RishvinReddy)
+[![LinkedIn](https://img.shields.io/badge/⬡%20LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=050510)](https://www.linkedin.com/in/rishvinreddy)
+
+<br/>
+
+<!-- ════════════ PROFILE VIEWS ════════════ -->
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=RishvinReddy&label=PROFILE+VIEWS&color=00F7FF&style=flat-square)](https://github.com/RishvinReddy)
+![GitHub followers](https://img.shields.io/github/followers/RishvinReddy?label=FOLLOWERS&style=flat-square&color=00F7FF&labelColor=050510)
 
 </div>
 
 -----
 
-<div align="left">
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## `01` — About
+<!--                   ⬡  IDENTITY CORE  ⬡                     -->
 
-> *Building at the intersection of IoT, Security, and AI — shipping real systems, not just demos.*
-
-I’m an undergraduate **Software Engineering** student at **Woxsen University**, India 🇮🇳.  
-My core strength lies in **bridging hardware-level systems** (IoT, Embedded) with **software-driven intelligence** (AI, Security, Web Platforms) — combining clean architecture, practical security, and performance-aware design.
-
-![Custom Banner](https://github.com/user-attachments/assets/88b253ef-f2c2-4c92-94e5-9e34cf98e630)
-
-**Focus Areas**
-
-```
-→  System Design   IoT architectures · network-aware applications · modular backends
-→  Security        IDS/IPS · cryptography fundamentals · secure communication analysis
-→  Research        Technical papers · algorithm analysis · system optimisation
-```
-
-</div>
-
------
-
-## `02` — Stack
-
-#### Languages & Backend
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-
-#### IoT, Embedded & Hardware
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Tinkercad](https://img.shields.io/badge/Tinkercad-FF6F00?style=flat-square)
-
-#### Cybersecurity & Networking
-
-![Snort](https://img.shields.io/badge/Snort_IDS-CC0000?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cryptography](https://img.shields.io/badge/Cryptography-AES_%7C_DES_%7C_S--DES-7c3aed?style=flat-square)
-
-#### Data, AI & Visualisation
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-
-#### Cloud, Deployment & DevOps
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
------
-
-## `03` — Projects
-
-|# |Project                       |Domain           |Stack                                  |
-|--|------------------------------|-----------------|---------------------------------------|
-|01|**SecureComm Analyzer**       |Network Security |`Python` `JavaScript` `Packet Analysis`|
-|02|**NetShield IDS**             |IDS / IPS        |`Snort` `Linux` `DoS Detection`        |
-|03|**Smart Irrigation System**   |IoT & Agriculture|`Arduino` `Sensors` `IoT Dashboards`   |
-|04|**Smart Dustbin System**      |IoT Automation   |`Arduino` `Ultrasonic Sensor` `LEDs`   |
-|05|**Disk Scheduling Visualizer**|Operating Systems|`Python` `Tkinter`                     |
-|06|**Text Search Engine**        |Data Structures  |`Tries` `KMP Algorithm`                |
-
------
-
-## `04` — Metrics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RishvinReddy&show_icons=true&theme=dark&bg_color=0a0b0f&border_color=1f2330&title_color=5cffb1&icon_color=4f8eff&text_color=e8eaf2&hide_border=false&border_radius=12" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RishvinReddy&theme=dark&background=0a0b0f&border=1f2330&ring=5cffb1&fire=ff6b6b&currStreakLabel=e8eaf2&hide_border=false&border_radius=12" />
-</p>
-
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Contribution Snake" />
-</p>
-
------
-
-## `05` — Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/rishvin-reddy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/RishvinReddy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:rishvin18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/message/J4P3MRT5HOAZH1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <sub>Designed with intent · Built with precision · Erolla Rishvin Reddy © 2025</sub>
+
+### `⬡ IDENTITY CORE`
+
+</div>
+
+```yaml
+┌─────────────────────────────────────────────────────────────┐
+│                     RISHVIN.CORE  v2.0                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  entity        : Rishvin Reddy                              │
+│  role          : Engineer · Builder · System Thinker        │
+│  institute     : Woxsen University — CSE-BIC '28            │
+│  location      : India  🇮🇳                                  │
+│                                                             │
+│  domains:                                                   │
+│    ├─ AI System Design                                      │
+│    ├─ Full Stack Development                                │
+│    ├─ IoT Engineering                                       │
+│    └─ Product Thinking                                      │
+│                                                             │
+│  current_state:                                             │
+│    focus       : AI + Scalable Systems                      │
+│    mindset     : Build Fast · Ship Often · Impact at Scale  │
+│    mission     : Create systems used by millions            │
+│                                                             │
+│  status        : ONLINE  🟢  actively building              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+-----
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                  ⬡  SYSTEM MODULES  ⬡                     -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `⬡ LIVE SYSTEM STATUS`
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/MODULE-ONLINE-00F7FF?style=flat-square&labelColor=050510"/><br/>
+<b>🤖 AI Engine</b><br/>
+<sub>Resume + skills + portfolio intelligence</sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/MODULE-ONLINE-00F7FF?style=flat-square&labelColor=050510"/><br/>
+<b>🌍 Project Universe</b><br/>
+<sub>Interactive project visualization</sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/MODULE-ONLINE-00F7FF?style=flat-square&labelColor=050510"/><br/>
+<b>📊 Analytics Core</b><br/>
+<sub>GitHub + dev metrics dashboard</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/MODULE-ONLINE-00F7FF?style=flat-square&labelColor=050510"/><br/>
+<b>🧪 Browser IDE</b><br/>
+<sub>Code execution inside browser</sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/MODULE-ONLINE-00F7FF?style=flat-square&labelColor=050510"/><br/>
+<b>🧠 Skill Graph</b><br/>
+<sub>Neural skill network mapping</sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/MODULE-BUILDING-FFB800?style=flat-square&labelColor=050510"/><br/>
+<b>🏆 Achievements</b><br/>
+<sub>Awards · certs · milestones</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+-----
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                    ⬡  TECH STACK DNA  ⬡                   -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `⬡ TECH STACK DNA`
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark&perline=5"/>
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=tailwind,flask,nodejs,react&theme=dark&perline=4"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,arduino,vscode,linux&theme=dark&perline=5"/>
+
+<br/>
+
+<!-- Language bars as badges -->
+
+![Python](https://img.shields.io/badge/Python-★★★★☆-00F7FF?style=flat-square&logo=python&logoColor=white&labelColor=050510)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-00F7FF?style=flat-square&logo=javascript&logoColor=white&labelColor=050510)
+![C++](https://img.shields.io/badge/C++-★★★☆☆-00F7FF?style=flat-square&logo=cplusplus&logoColor=white&labelColor=050510)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-★★★★★-00F7FF?style=flat-square&logo=html5&logoColor=white&labelColor=050510)
+
+</div>
+
+-----
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                   ⬡  PROJECT ENGINE  ⬡                    -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `⬡ PROJECT ENGINE`
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🤖 AI Portfolio OS
+
+> **Status:** `[ LIVE ]`
+
+An intelligent developer portfolio that thinks — with a built-in analytics core, AI-powered resume generation, and interactive skill visualization.
+
+**Stack:** `HTML` `CSS` `JS` `Python`
+
+[![View Project](https://img.shields.io/badge/VIEW-PROJECT-00F7FF?style=flat-square&labelColor=050510)](https://rishvinreddy.github.io/)
+
+</td>
+
+<td width="33%" valign="top">
+
+### ♻️ Smart Dustbin IoT
+
+> **Status:** `[ DEPLOYED ]`
+
+Intelligent waste-level monitoring with real-time alerts. Reduces overflow by 70% through predictive fill-rate tracking and automated notifications.
+
+**Stack:** `Arduino` `IoT Sensors` `C++`
+
+[![View Project](https://img.shields.io/badge/VIEW-PROJECT-00F7FF?style=flat-square&labelColor=050510)](https://github.com/RishvinReddy)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌱 Smart Irrigation
+
+> **Status:** `[ ACTIVE ]`
+
+Automated precision agriculture — soil moisture sensing, weather API integration, and ML-assisted scheduling to reduce water usage.
+
+**Stack:** `Python` `Arduino` `Flask` `ML`
+
+[![View Project](https://img.shields.io/badge/VIEW-PROJECT-00F7FF?style=flat-square&labelColor=050510)](https://github.com/RishvinReddy)
+
+</td>
+
+</tr>
+</table>
+
+-----
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                 ⬡  GITHUB METRICS  ⬡                      -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `⬡ GITHUB METRICS`
+
+<img src="https://github-readme-stats.vercel.app/api?username=RishvinReddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&border_radius=10" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishvinReddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00F7FF&text_color=ffffff&border_radius=10" height="175"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=RishvinReddy&theme=tokyonight&hide_border=true&background=050510&ring=00F7FF&fire=FFB800&currStreakLabel=00F7FF&border_radius=10" height="175"/>
+
+</div>
+
+-----
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                   ⬡  TROPHIES  ⬡                          -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `⬡ ACHIEVEMENT GRID`
+
+<img src="https://github-profile-trophy.vercel.app/?username=RishvinReddy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+-----
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                 ⬡  ACTIVITY GRAPH  ⬡                      -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `⬡ COMMIT TIMELINE`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishvinReddy&theme=tokyo-night&hide_border=true&bg_color=050510&color=00F7FF&line=00F7FF&point=FFB800&area=true&area_color=00F7FF" width="100%"/>
+
+</div>
+
+-----
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                  ⬡  AI PERSONALITY  ⬡                     -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `⬡ RISHVIN.AI — PERSONALITY MODULE`
+
+</div>
+
+```python
+class RishvinReddy:
+
+    OPERATING_SINCE = 2024
+    VERSION = "2.0-alpha"
+
+    def __init__(self):
+        self.role     = "Engineer · Builder · System Thinker"
+        self.stack    = ["Python", "JavaScript", "C++", "IoT", "AI/ML"]
+        self.mindset  = "Think in systems. Build for scale."
+        self.fuel     = ["Coffee ☕", "Open-source", "Hard problems"]
+        self.status   = "🟢 ONLINE — actively shipping"
+
+    def think(self)   → str:  return "How does this scale to a million users?"
+    def build(self)   → str:  return "Fast. Clean. Impactful. Ship it."
+    def learn(self)   → str:  return "Every project is a new operating system."
+    def goal(self)    → str:  return "Build a product used by millions. 🌍"
+    def current(self) → str:  return "Woxsen University CSE → Class of 2028"
+
+rishvin = RishvinReddy()
+print(rishvin.goal())  # → "Build a product used by millions. 🌍"
+```
+
+-----
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                   ⬡  PIPELINE  ⬡                          -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `⬡ BUILD PIPELINE`
+
+```
+💡 IDEA  ──▶  🔬 RESEARCH  ──▶  ⚙️ BUILD  ──▶  🧪 TEST  ──▶  🚀 SHIP  ──▶  📈 SCALE  ──▶  🌍 IMPACT
+```
+
+![Idea](https://img.shields.io/badge/01-IDEATE-00F7FF?style=flat-square&labelColor=050510)
+![Research](https://img.shields.io/badge/02-RESEARCH-00C8FF?style=flat-square&labelColor=050510)
+![Build](https://img.shields.io/badge/03-BUILD-0099FF?style=flat-square&labelColor=050510)
+![Test](https://img.shields.io/badge/04-TEST-006AFF?style=flat-square&labelColor=050510)
+![Ship](https://img.shields.io/badge/05-SHIP-FFB800?style=flat-square&labelColor=050510)
+![Scale](https://img.shields.io/badge/06-SCALE-FF8C00?style=flat-square&labelColor=050510)
+![Impact](https://img.shields.io/badge/07-IMPACT-FF4500?style=flat-square&labelColor=050510)
+
+</div>
+
+-----
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                   ⬡  CONNECT  ⬡                           -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `⬡ ESTABLISH CONNECTION`
+
+<a href="https://rishvinreddy.github.io/">
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-rishvinreddy.github.io-00F7FF?style=for-the-badge&labelColor=050510"/>
+</a>
+&nbsp;
+<a href="https://github.com/RishvinReddy">
+  <img src="https://img.shields.io/badge/💻%20GITHUB-RishvinReddy-ffffff?style=for-the-badge&logo=github&labelColor=050510"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rishvinreddy">
+  <img src="https://img.shields.io/badge/🔗%20LINKEDIN-Rishvin%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&labelColor=050510"/>
+</a>
+
+<br/><br/>
+
+```
+⬡ Open to: Internships · Collaborations · Research Projects · Open Source
+```
+
+</div>
+
+-----
+
+<!-- ════════════ FOOTER WAVE ════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,60:00F7FF,100:050510&height=120&section=footer&text=SYSTEM+LOG:+Building+the+future%2C+one+commit+at+a+time.&fontSize=14&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+<sub>
+⬡ Crafted with intent · Powered by curiosity · Deployed with precision ⬡
+</sub>
+
 </div>
